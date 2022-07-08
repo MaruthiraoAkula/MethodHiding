@@ -18,7 +18,7 @@ namespace MethodHiding
         public new void print()
         {
             //base.print();
-            Console.WriteLine("I'm a Derived Class");
+            Console.WriteLine("I'm a Derived Class and class");
         }
     }
     class Program
